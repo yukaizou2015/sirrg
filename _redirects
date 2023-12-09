@@ -1,3 +1,4 @@
 # Redirects from what the browser requests to what we serve
 
 /mri-journal-lounge https://sotnir.github.io/mri-journal-lounge
+/sotnir-handbook    https://sotnir-handbook.readthedocs.io
